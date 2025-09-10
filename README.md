@@ -123,7 +123,7 @@ PUT	/api/profile/	Update user profile
 For detailed project structure, see:
 PROJECT_STRUCTURE.md
 
-👨‍💻 Author
+<b>👨‍💻 Author</b>
 
 <b>PAL MIYANI</b>
 
