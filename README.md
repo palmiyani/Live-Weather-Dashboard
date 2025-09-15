@@ -118,10 +118,6 @@ PUT	/api/profile/	Update user profile
 ✅ Mobile-first & Responsive
 ✅ Dark Mode Support
 
-📖 <b>Additional Docs</b>
-
-For detailed project structure, see:
-PROJECT_STRUCTURE.md
 
 <b>👨‍💻 Author</b>
 
