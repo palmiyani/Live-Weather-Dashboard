@@ -116,7 +116,7 @@ PUT	/api/profile/	Update user profile
 ✅ Search History Tracking
 ✅ Real-time Alerts
 ✅ Mobile-first & Responsive
-✅ Dark Mode Support
+✅ Dark Mode Support<br>
 
 
 <b>👨‍💻 Author</b>
