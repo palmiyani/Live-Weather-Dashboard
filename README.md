@@ -108,14 +108,14 @@ GET	/api/profile/	Fetch user profile
 PUT	/api/profile/	Update user profile
 🚀 <b>Key Highlights</b>
 
-✅ Current Location Weather
-✅ City Search with Autocomplete
+✅ Current Location Weather<br>
+✅ City Search with Autocomplete<br>
 ✅ Weather Comparison
 ✅ Interactive Charts & Analytics
 ✅ Secure Authentication
 ✅ Search History Tracking
 ✅ Real-time Alerts
-✅ Mobile-first & Responsive
+✅ Mobile-first & Responsive<br>
 ✅ Dark Mode Support<br>
 
 
