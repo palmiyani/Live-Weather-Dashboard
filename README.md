@@ -110,11 +110,11 @@ PUT	/api/profile/	Update user profile
 
 ✅ Current Location Weather<br>
 ✅ City Search with Autocomplete<br>
-✅ Weather Comparison
-✅ Interactive Charts & Analytics
-✅ Secure Authentication
-✅ Search History Tracking
-✅ Real-time Alerts
+✅ Weather Comparison<br>
+✅ Interactive Charts & Analytics<br>
+✅ Secure Authentication<br>
+✅ Search History Tracking<br>
+✅ Real-time Alerts<br>
 ✅ Mobile-first & Responsive<br>
 ✅ Dark Mode Support<br>
 
